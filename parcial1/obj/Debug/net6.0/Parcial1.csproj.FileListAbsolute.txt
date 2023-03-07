@@ -1,0 +1,5 @@
+C:\Users\ALEXIS\source\repos\Parcial1\obj\Debug\net6.0\Parcial1.csproj.AssemblyReference.cache
+C:\Users\ALEXIS\source\repos\Parcial1\obj\Debug\net6.0\Parcial1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEXIS\source\repos\Parcial1\obj\Debug\net6.0\Parcial1.AssemblyInfoInputs.cache
+C:\Users\ALEXIS\source\repos\Parcial1\obj\Debug\net6.0\Parcial1.AssemblyInfo.cs
+C:\Users\ALEXIS\source\repos\Parcial1\obj\Debug\net6.0\Parcial1.csproj.CoreCompileInputs.cache
